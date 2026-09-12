@@ -243,4 +243,4 @@ This repository serves as the official landing page for BPM Studio. The software
 **Get the most recent version of BPM Studio today!**
 
 ---
-**Last updated:** 2026-09-11 22:59:02 UTC
+**Last updated:** 2026-09-12 01:01:34 UTC
